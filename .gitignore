@@ -1,1 +1,3 @@
 node_modules
+.mailing
+yarn-error.log
